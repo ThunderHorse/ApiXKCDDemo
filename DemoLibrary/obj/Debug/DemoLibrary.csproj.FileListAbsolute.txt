@@ -1,0 +1,9 @@
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\bin\Debug\DemoLibrary.dll.config
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Source\MyProjects\ApiDemo\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
